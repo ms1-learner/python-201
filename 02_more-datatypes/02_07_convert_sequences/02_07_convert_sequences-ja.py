@@ -4,4 +4,4 @@
 # - リスト内の文字「c」を「k」に変更します
 # - リストをタプルに戻します
 
-string = "codingnomads"
+string = "pythoncourse"
